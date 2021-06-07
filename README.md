@@ -1,4 +1,4 @@
-## Desenvolvedor ASP Net e ASP Net core, enstusiasta da tecnologia.
+## Desenvolvedor ASP Net e ASP Net core e enstusiasta da tecnologia
 Um Junior no mundo dev, acadêmico em física, ex IG-UFRJ (Instituto de Ginecologia - UFRJ), ex estagiário MN-UFRJ (Museu Nacional) e ex Banco Bradesco. 
 Criador do projeto Ladislau no Museu Nacional, do site do Santuário de Fátima e começando a criar o Orione. 
 
