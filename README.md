@@ -11,13 +11,15 @@ Criador do projeto Ladislau no Museu Nacional, do site do Santuário de Fátima 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordepoaoj&layout=compact&langs_count=7&theme=dracula&title_color=37A9D1"/>
   </a>  
  
+- 💬 Pergunte-me sobre **ASP, ASP Net Core, C# e SQL** se eu souber como ajudar será um prazer, se não souber iniciaremos uma jornada em busca desse conhecimento.
+- 📫 Pode me encontrar no joao.coutinho@tutanota.com
+- 😄 Também sei tocar piano mas, não conta pra ninguém, tá!? 😂😉 
+ 
   ![Snake animation](https://github.com/ordepoaoj/ordepoaoj/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-- 💬 Pergunte-me sobre **ASP, ASP Net Core, C# e SQL** se eu souber como ajudar será um prazer, se não souber iniciaremos uma jornada em busca desse conhecimento.
-- 📫 Pode me encontrar no joao.coutinho@tutanota.com
-- 😄 Também sei tocar piano mas, não conta pra ninguém, tá!? 😂😉
+
 <!--
 **ordepoaoj/ordepoaoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
