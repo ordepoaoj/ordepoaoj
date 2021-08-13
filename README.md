@@ -5,7 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ordepoaoj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordepoaoj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<div>
+    ![Snake animation](https://github.com/ordepoaoj/ordepoaoj/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
+  
  ## 
   
 Um Junior no mundo dev, acadêmico em física, ex IG-UFRJ (Instituto de Ginecologia - UFRJ), ex estagiário MN-UFRJ (Museu Nacional) e ex Banco Bradesco. 
