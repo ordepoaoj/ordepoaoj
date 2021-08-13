@@ -10,7 +10,9 @@ Criador do projeto Ladislau no Museu Nacional, do site do Santuário de Fátima 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ordepoaoj&show_icons=true&theme=dracula&title_color=37A9D1&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordepoaoj&layout=compact&langs_count=7&theme=dracula&title_color=37A9D1"/>
   </a>  
+ 
   ![Snake animation](https://github.com/ordepoaoj/ordepoaoj/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 - 💬 Pergunte-me sobre **ASP, ASP Net Core, C# e SQL** se eu souber como ajudar será um prazer, se não souber iniciaremos uma jornada em busca desse conhecimento.
