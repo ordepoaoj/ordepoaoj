@@ -2,7 +2,7 @@
 
  ## 
   
-Um Junior no mundo dev, acadêmico em física, ex IG-UFRJ (Instituto de Ginecologia - UFRJ), ex estagiário MN-UFRJ (Museu Nacional) e ex Banco Bradesco. 
+Um Junior no mundo dev, acadêmico em física, atualmente na Inside Sistemas, ex IG-UFRJ (Instituto de Ginecologia - UFRJ), ex estagiário MN-UFRJ (Museu Nacional) e ex Banco Bradesco. 
 Criador do projeto Ladislau no Museu Nacional, do site do Santuário de Fátima e começando a criar o Orione. 
 
 <div>
